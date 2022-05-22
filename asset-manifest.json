@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sohelagency/static/css/main.073c9b0a.css",
+    "main.js": "/sohelagency/static/js/main.111441cb.js",
+    "static/js/787.5205cef5.chunk.js": "/sohelagency/static/js/787.5205cef5.chunk.js",
+    "static/media/logo.svg": "/sohelagency/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sohelagency/index.html",
+    "main.073c9b0a.css.map": "/sohelagency/static/css/main.073c9b0a.css.map",
+    "main.111441cb.js.map": "/sohelagency/static/js/main.111441cb.js.map",
+    "787.5205cef5.chunk.js.map": "/sohelagency/static/js/787.5205cef5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.111441cb.js"
+  ]
+}
