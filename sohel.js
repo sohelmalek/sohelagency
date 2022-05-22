@@ -21,6 +21,7 @@ $(function () {
       });
       $(".navbar-nav li a").click(function(){
         $(".navbar-collapse").removeClass("open");
+        $(".hamburger").removeClass("is-active");
         // $("body").toggleClass("offscroll");
   
       });
